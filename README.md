@@ -8,8 +8,11 @@ The Play Framework (https://www.playframework.com/getting-started) sets up port 
 
 Shows the creation of the application and the sucessful running on the web page.  
 
-First, I created controllers.TaskList1 under controllers. I updated routes to show the change. Clicking refresh on localhost:9000 I saw I made an error.![image3](https://user-images.githubusercontent.com/113136952/209846488-70fb5f71-448d-4418-821f-4cba91ebbe84.jpg)
- After correcting it, I had hard coded a list of taks. ![image1](https://user-images.githubusercontent.com/113136952/209846569-0a02702c-95aa-45ff-941f-6bc25f0517fa.jpg)
+First, I created controllers.TaskList1 under controllers. I updated routes to show the change. Clicking refresh on localhost:9000 I saw I made an error.
+![image3](https://user-images.githubusercontent.com/113136952/209846488-70fb5f71-448d-4418-821f-4cba91ebbe84.jpg)
+
+ After correcting it, I had hard coded a list of taks. 
+ ![image1](https://user-images.githubusercontent.com/113136952/209846569-0a02702c-95aa-45ff-941f-6bc25f0517fa.jpg)
 
 
 

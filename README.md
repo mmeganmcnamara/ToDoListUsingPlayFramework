@@ -7,3 +7,14 @@ The Play Framework sets up port 9000 as a local host. I had to learn how to use 
 
 Shows the creation of the application and the sucessful running on the web page. 
 
+
+
+
+
+
+[^1]: https://www.youtube.com/watch?v=YhOOnE4_KWA&list=PLLMXbkbDbVt8tBiGc1y69BZdG8at1D7ZF&index=3
+[^2]: https://www.baeldung.com/scala/play-framework-intro
+[^3]: https://www.baeldung.com/scala/play-templating
+[^4]: https://www.playframework.com/documentation/2.0.4/ScalaTodoList
+[^5]: https://www.playframework.com/documentation/2.0.4/NewApplication
+
